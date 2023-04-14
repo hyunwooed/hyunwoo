@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: '#',
-  github: 'transitive-bullshit',
+  github: 'hyunwooed',
   linkedin: 'hyunwoojo',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   newsletter: 'https://mason360.gmu.edu/mksg/news/', // optional newsletter URL
