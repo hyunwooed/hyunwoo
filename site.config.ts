@@ -14,14 +14,14 @@ export default siteConfig({
   author: 'Hyunwoo Jo',
 
   // open graph metadata (optional)
-  description: 'hyunwoo.org',
+  description: 'Hyunwoo Jo | hyunwoo.org',
 
   // social usernames (optional)
   // twitter: '#',
   github: 'transitive-bullshit',
   linkedin: 'hyunwoojo',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  newsletter: 'http://mk.sg.gmu.edu', // optional newsletter URL
+  newsletter: 'https://mason360.gmu.edu/mksg/news/', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+      pageId: '3e505f0742fe46deb477e8ac9eea99b7'
     },
     {
       title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+      pageId: '0b9ab3ac3650486aa76d89307e0a135e'
     }
   ]
 })
