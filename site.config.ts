@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Hyunwoo Jo | hyunwoo.org',
+  name: 'Hyunwoo Jo',
   domain: 'hyunwoo.org',
   author: 'Hyunwoo Jo',
 
