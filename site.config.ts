@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Hyunwoo Jo',
 
   // open graph metadata (optional)
-  description: 'Hyunwoo Jo | hyunwoo.org',
+  description: 'Hyunwoo Jo | hyunwoo.org & ban.im',
 
   // social usernames (optional)
   // twitter: '#',
