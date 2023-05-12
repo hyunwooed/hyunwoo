@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Hyunwoo Jo',
-  domain: 'hyun.woo.is',
+  domain: 'hyunwoo.org',
   author: 'Hyunwoo Jo',
 
   // open graph metadata (optional)
-  description: 'Hyunwoo Jo | woo.is',
+  description: 'Hyunwoo Jo | hyunwoo.org',
 
   // social usernames (optional)
   // twitter: '#',
