@@ -346,10 +346,6 @@
   background: none !important;
 }
 
-.notion-row {
-  overflow: unset;
-}
-
 /* if you don't want rounded page icon images, remove this */
 .notion-page-icon-hero.notion-page-icon-image {
   border-radius: 50%;
