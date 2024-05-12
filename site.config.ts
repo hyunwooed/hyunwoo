@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'hyunwooed',
   linkedin: 'hyunwoojo',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  newsletter: 'https://mason360.gmu.edu/mksg/news/', // optional newsletter URL
+  // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
